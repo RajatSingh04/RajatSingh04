@@ -15,3 +15,4 @@ You can click the Preview link to take a look at your changes.
 [project of tableau.zip](https://github.com/RajatSingh04/RajatSingh04/files/9376027/project.of.tableau.zip)
 ###Dashboarding using Excel[Pivot Tables]:-
 [Dashboard_First_capstone_project.zip](https://github.com/RajatSingh04/RajatSingh04/files/9376040/Dashboard_First_capstone_project.zip)
+###Presentation report Using Excel for car used in Ukraine:-[Rajat Dashboard Presentation(1)(3)(1).zip](https://github.com/RajatSingh04/RajatSingh04/files/9376543/Rajat.Dashboard.Presentation.1.3.1.zip)
